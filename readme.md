@@ -1,5 +1,6 @@
 # ESP32 LED Driver  
 Contributors: ahortin  
+URL:  https://easyeda.com/Ahortin/led-string-schematic  
 Version: 1.0  
 License: CERN Open Hardware Licence Version 2 - Permissive - https://ohwr.org/cern_ohl_p_v2.txt
 
