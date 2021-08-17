@@ -12,6 +12,8 @@ Input is 5v via a 2.1mm DC barrel jack. Output is 5v via a 3pin terminal block.
 
 Has connections for an INMP441 I2S microphone and 3 momentary switches.
 
+![ESP32 LED Driver PCB](ESP32%20LED%20Driver.jpg)
+
 
 ### Changelog
 
